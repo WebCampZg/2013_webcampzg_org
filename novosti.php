@@ -44,13 +44,9 @@
 
 			<div class="inner_wrap cf">
 
-				<h1><a href="http://webcampzg.org/" title="WebCamp Zagreb"><strong>Webcamp</strong> Zagreb</a></h1>
+				<h1><a href="http://2013.webcampzg.org/" title="WebCamp Zagreb"><strong>Webcamp</strong> Zagreb</a></h1>
 
-				<aside class="social">
-					<a class="fb-icon" href="#" target="#"><span>Facebook</span></a>
-					<a class="tw-icon" href="#" target="#"><span>Twitter</span></a>
-					<a class="gp-icon" href="#" target="#"><span>Google +</span></a>
-				</aside>
+                <?php include 'components/aside_social.php'; ?>
 
 				<nav>
 					<ul>
@@ -115,42 +111,9 @@
 			</div>
 
 		</div>
-<!--
-		<div class="sponsors_block">
-			<div class="inner_wrap">
-
-				<div class="main">
-					<a href="#" target="_blank"><img src="images/sponsors/net_gen.png" alt="" /></a>
-					<a href="#" target="_blank"><img src="images/sponsors/dobar_kod.png" alt="" /></a>
-				</div>
-
-				<a href="#" target="_blank"><img src="images/sponsors/trikoder.png" alt="" /></a>
-				<a href="#" target="_blank"><img src="images/sponsors/log_it.png" alt="" /></a>
-				<a href="#" target="_blank"><img src="images/sponsors/adobe.png" alt="" /></a>
-				<a href="#" target="_blank"><img src="images/sponsors/hgk.png" alt="" /></a>
-				<a href="#" target="_blank"><img src="images/sponsors/microsoft.png" alt="" /></a>
-				<a href="#" target="_blank"><img src="images/sponsors/active_collab.png" alt="" /></a>
-
-			</div>
-		</div>
--->
-
-		<div class="social_block">
-			<div class="inner_wrap">
-
-				<h4>Prati nas na društvenim mrežama</h4>
-
-				<a class="fb-icon" href="https://www.facebook.com/WebCampZg" target="_blank">fb.com/webcampzg</a>
-				<a class="tw-icon" href="https://twitter.com/webcampzg" target="_blank">@webcampzg</a>
-				<a class="gp-icon" href="" target="_blank">g+ link</a>
-
-			</div>
-		</div>
-
-		<footer id="page_footer">
-			<p>Copyright 2013. Webcamp Zagreb. Design & development: <a href="http://www.trikoder.net">Trikoder</a>; Hosted by: <a href="http://dobarkod.hr" target="_blank">Dobar Kod</a></p>
-		</footer>
-
+        <?php include 'components/sponsors.php'; ?>
+        <?php include 'components/social.php'; ?>
+        <?php include 'components/footer.php';?>
 	</div>
 
 	<script>
