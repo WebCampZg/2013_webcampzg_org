@@ -1,0 +1,50 @@
+{
+  "name": "webcampzg",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "glyphs": [
+    {
+      "uid": "52725ff4d4042964bd3a60609bf3695b",
+      "css": "right-circled",
+      "code": 59395,
+      "src": "entypo"
+    },
+    {
+      "uid": "289b5f92f23acf1059c93fbf401c1ad5",
+      "css": "down-open-big",
+      "code": 59396,
+      "src": "entypo"
+    },
+    {
+      "uid": "884cfc3e6e2d456dd2a2ca0dbb9e6337",
+      "css": "left-open-big",
+      "code": 59397,
+      "src": "entypo"
+    },
+    {
+      "uid": "004882ab2d5c418c5b2060e80596279b",
+      "css": "right-open-big",
+      "code": 59398,
+      "src": "entypo"
+    },
+    {
+      "uid": "818a6c2a76c89800632c0335e9cdafee",
+      "css": "gplus-circled",
+      "code": 59394,
+      "src": "entypo"
+    },
+    {
+      "uid": "ccf7ed45e7f05a89376f38abaa9d7d13",
+      "css": "twitter-circled",
+      "code": 59392,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "96aafeab29734d1510805687f7695f8f",
+      "css": "facebook-circled",
+      "code": 59393,
+      "src": "mfglabs"
+    }
+  ]
+}
