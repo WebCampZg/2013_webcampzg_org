@@ -8,7 +8,7 @@
 	<meta content="IE=Edge,chrome=1" http-equiv="X-UA-Compatible">
 	<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable = no" name="viewport">
 
-	<title>Krećemo s pripremama za WebCamp Zagreb | Tehnološka konferencija namijenjena web developerima</title>
+	<title>Krećemo s pripremama za WebCamp Zagreb | Tehnološka konferencija namijenjena web programerima</title>
 
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />

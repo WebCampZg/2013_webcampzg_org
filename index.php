@@ -50,8 +50,8 @@
                <?php include 'components/navigation.php'; ?>
 
 				<section class="intro">
-					<h2>Tehnološka konferencija namjenjena web developerima</h2>
-					<p>Subota 26/10/2013 Hrvatska Gospodarska Komora Nova cesta 7, Zagreb</p>
+					<h2>Tehnološka konferencija namijenjena web programerima</h2>
+					<p>Subota 26/10/2013<br/> Hrvatska Gospodarska Komora<br/> Nova cesta 7, Zagreb</p>
 				</section>
 
 			</div>
