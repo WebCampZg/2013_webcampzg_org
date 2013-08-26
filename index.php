@@ -46,21 +46,12 @@
 
 				<h1><a href="http://2013.webcampzg.org/" title="WebCamp Zagreb"><strong>Webcamp</strong> Zagreb</a></h1>
 
-                <?php include 'components/aside_social.php'; ?>
-
-				<nav>
-					<ul>
-						<li class="active"><a href="index.html">Početak</a></li>
-						<li><a href="novosti.html">Novosti</a></li>
-						<li><a href="predavaci.html">Predavači</a></li>
-						<li><a href="raspored.html">Raspored</a></li>
-						<li><a href="info.html">Info</a></li>
-					</ul>
-				</nav>
+               <?php include 'components/aside_social.php'; ?>
+               <?php include 'components/navigation.php'; ?>
 
 				<section class="intro">
 					<h2>Tehnološka konferencija namjenjena web developerima</h2>
-					<p>Subota 21/04/2013 Hrvatska Gospodarska Komora Nova cesta 7, Zagreb</p>
+					<p>Subota 26/10/2013 Hrvatska Gospodarska Komora Nova cesta 7, Zagreb</p>
 				</section>
 
 			</div>
@@ -93,45 +84,46 @@
 						<div class="col">
 
 							<article>
-								<strong>15/08/2013</strong>
-								<h2><a href="novost_detaljno.html">Krećemo s pripremama za WebCamp Zagreb 2013</a></h2>
-								<p>Potaknuti uspjehom prošlogodišnje konferencije WebCamp Zagreb, koja je okupila više od 230 posjetitelja, odlučili smo i ove godine ... <a href="novost_detaljno.html">opširnije</a></p>
+								<strong>27/08/2013</strong>
+								<h2><a href="/postani-predavac-na-webcampu-zagreb-2013/" title="Postani predavač na WebCampu Zagreb 2013!">Postani predavač na WebCampu Zagreb 2013!</a></h2>
+								<p>Veliko nam je zadovoljstvo pozvati te na WebCamp Zagreb 2013, jednodnevnu konferenciju posvećenu web programerima, koja će se održati 26. listopada 2013. u Zagrebu. No ovo nije običan poziv – pozivamo te da nam pomogneš u realizaciji konferencije vlastitim predavanjem! <a href="/postani-predavac-na-webcampu-zagreb-2013/">opširnije</a></p>
 							</article>
 
 						</div>
 						<div class="col">
 
 							<article>
-								<strong>15/08/2013</strong>
-								<h2><a href="novost_detaljno.html">Krećemo s pripremama za WebCamp Zagreb 2013</a></h2>
-								<p>Potaknuti uspjehom prošlogodišnje konferencije WebCamp Zagreb, koja je okupila više od 230 posjetitelja, odlučili smo i ove godine ... <a href="novost_detaljno.html">opširnije</a></p>
+								<strong>06/06/2013</strong>
+								<h2><a href="/krecemo-s-pripremama-za-webcamp-zagreb-2013/">Krećemo s pripremama za WebCamp Zagreb 2013</a></h2>
+								<p>Potaknuti uspjehom prošlogodišnje konferencije WebCamp Zagreb, koja je okupila više od 230 posjetitelja, odlučili smo i ove godine nastaviti s provjerenim konceptom. Posebnost konferencije WebCamp leži upravo u činjenici da ju je pokrenula zajednica stoga i ove godine očekujemo snažnu potporu web korisničkih grupa kako bismo vam mogli ponuditi još kvalitetniji program. <a href="novost_detaljno.html">opširnije</a></p>
 							</article>
 
 						</div>
 						<div class="col">
 
 							<article>
-								<strong>15/08/2013</strong>
-								<h2><a href="novost_detaljno.html">Krećemo s pripremama za WebCamp Zagreb 2013</a></h2>
-								<p>Potaknuti uspjehom prošlogodišnje konferencije WebCamp Zagreb, koja je okupila više od 230 posjetitelja, odlučili smo i ove godine ... <a href="novost_detaljno.html">opširnije</a></p>
+								<strong>26/12/2012</strong>
+								<h2><a href="http://2012.webcampzg.org/video-snimke-predavanja-webcamp-zagreb-2012/">Video snimke predavanja WebCamp Zagreb 2012</a></h2>
+								<p>Na stranicama predavanja se nalaze video snimke svih predavanja sa nedavno održanoga WebCampa 2012.  Puno hvala ekipi Kluba Studenata Elektrotehnike (KSET) na snimanju predavanja i obradi videa. Radi lakšega snalaženja koja ste predavanja propustili lista je objavljena u obliku rasporeda. <a href="http://2012.webcampzg.org/video-snimke-predavanja-webcamp-zagreb-2012/">opširnije</a></p>
 							</article>
 
 						</div>
 
 					</div>
-
+<?php if (0) {?>
 					<div class="show_more">
 						<a href="#" class="down-icon">Prikaži još vijesti</a>
 					</div>
-
+<?php } ?>
 				</div>
 			</div>
 
 		</div>
-        <?php include 'components/twitter.php'; ?>
-        <?php include 'components/speaker.php'; ?>
-        <?php include 'components/schedule.php'; ?>
-        <?php include 'components/sponsors.php'; ?>
+        <?php //include 'components/twitter.php'; ?>
+        <?php //include 'components/speaker.php'; ?>
+        <?php //include 'components/schedule.php'; ?>
+        <?php //include 'components/sponsors.php'; ?>
+        <?php include 'components/organizers.php'; ?>
         <?php include 'components/social.php'; ?>
         <?php include 'components/footer.php';?>
 
