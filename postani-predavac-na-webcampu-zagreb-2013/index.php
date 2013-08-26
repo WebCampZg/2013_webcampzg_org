@@ -84,7 +84,7 @@
                      <p>Predavanja trebaju biti tehničke, a ne promotivne prirode - svakako nastojite uključiti dobre i loše strane i prikazati stvari objektivno, a konkretne projekte treba pokazati iznutra, a ne iz perspektive običnog korisnika. Ukratko rečeno: pričamo o tehnologijama, a ne marketing.</p>
                      <p>Nemaš ideju? Evo par općenitih natuknica: arhitektura aplikacija, hosting, cloud, metodologije razvoja softvera, testiranje aplikacija, alati za razvoj, dizajn, klijentski i serverski razvoj, web za mobilne uređaje, predstavljanje specifičnih tehnologija, baze podataka i one koje to nisu, hejtanje tehnologije koju volite i koristite, upravljanje web-projektima, kolaboracijski sustavi, distribuirani timski rad…</p>
                      <p>Sva predavanja će biti u trajanju od 25 minuta.</p>
-                     <p>Prijaviti se možete putem <a href="2013.webcampzg.org/prijava-predavanja/" title="Prijavi predavanje za WebCamp Zagreb">WebCamp prijavnice za predavače</a>. Krajnji rok za prijave je do 9.9. u 24h.</p>
+                     <p>Prijaviti se možete putem <a href="http://2013.webcampzg.org/prijava-predavanja/" title="Prijavi predavanje za WebCamp Zagreb">WebCamp prijavnice za predavače</a>. Krajnji rok za prijave je do 9.9. u 24h.</p>
                      <p>Izbor tema i predavača vrši se glasanjem svih voditelja korisničkih grupa koje sudjeluju u organizaciji konferencije. Svi odabrani predavači bit će obaviješteni osobno, e-mailom do kraja rujna (vjerojatno i prije).</p>
                      <p>Za sva pitanja, nejasnoće ili ispravak pravopisnih grešaka u ovom tekstu javite se na predavanja@webcampzg.org.</p>
 						</div>
