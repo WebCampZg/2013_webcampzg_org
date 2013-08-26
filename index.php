@@ -63,18 +63,7 @@
 	<div id="content_wrap">
 
 		<div id="top_content_mask">
-
-			<section id="newsletter_sub">
-				<div class="inner_wrap cf">
-					<p>Ostani u toku. Pretplati se na newsletter.</p>
-					<form action="" method="">
-						<fieldset>
-							<input class="text" type="email" name="" placeholder="Upiši svoju e-mail adresu" />
-							<button class="submit right-circle-icon" type="submit"><span>pošalji</span></button>
-						</fieldset>
-					</form>
-				</div>
-			</section>
+			<?php include 'components/newsletter.php'; ?>
 
 			<div class="news_block col_3_grid">
 				<div class="inner_wrap cf">
