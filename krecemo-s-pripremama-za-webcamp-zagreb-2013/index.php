@@ -84,7 +84,7 @@
                         s raznim tehnologijama, metodologijom rada ili zanimljivim rješenjima nekog problema.</p>
 
 							<p>Želite li među prvima dobiti informacije o dostupnosti ulaznica i sadržaju konferencije? Ostavite nam <a href="http://webcampzg.us7.list-manage.com/subscribe?u=9390a854a4f6130f215f417ef&id=38307cb9bd" title="Prijavi se na WebCamp Zagreb Newsletter">svoju e-mail adresu</a>.</p>
-							<p>Zainteresirani ste predavati na WebCampu? Prijaviti se možete putem naše <a href="https://docs.google.com/forms/d/1o-DTpNH95qK8HajGhQJjqkzpFK__IgikI-61S-DqDW4/viewform" title="Prijavi predavanje za WebCamp Zagreb">WebCamp prijavnice za predavače</a>. Krajnji rok za prijave je do 9.9. u 24h.</p>
+							<p>Zainteresirani ste predavati na WebCampu? Prijaviti se možete putem naše <a href="2013.webcampzg.org/prijava-predavanja/" title="Prijavi predavanje za WebCamp Zagreb">WebCamp prijavnice za predavače</a>. Krajnji rok za prijave je do 9.9. u 24h.</p>
 						</div>
 
 					</article>
