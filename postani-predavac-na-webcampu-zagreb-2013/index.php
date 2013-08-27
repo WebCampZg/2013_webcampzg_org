@@ -86,7 +86,7 @@
                      <p>Sva predavanja će biti u trajanju od 25 minuta.</p>
                      <p>Prijaviti se možete putem <a href="http://2013.webcampzg.org/prijava-predavanja/" title="Prijavi predavanje za WebCamp Zagreb">WebCamp prijavnice za predavače</a>. Krajnji rok za prijave je do 9.9. u 24h.</p>
                      <p>Izbor tema i predavača vrši se glasanjem svih voditelja korisničkih grupa koje sudjeluju u organizaciji konferencije. Svi odabrani predavači bit će obaviješteni osobno, e-mailom do kraja rujna (vjerojatno i prije).</p>
-                     <p>Za sva pitanja, nejasnoće ili ispravak pravopisnih grešaka u ovom tekstu javite se na predavanja@webcampzg.org.</p>
+                     <p>Za sva pitanja, nejasnoće ili ispravak pravopisnih grešaka u ovom tekstu javite se na <a href="mailto:predavanja@webcampzg.org">predavanja@webcampzg.org</a> .</p>
 						</div>
 
 					</article>
