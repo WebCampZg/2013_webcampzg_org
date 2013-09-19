@@ -70,6 +70,15 @@
 
 					<div class="inner_wrap_02">
 
+                  <div class="col">
+
+                     <article>
+                        <strong>19/09/2013</strong>
+                        <h2><a href="/odabrana-predavanja-za-webcamp-zagreb-2013/" title="Odabrana predavanja za WebCamp Zagreb 2013!">Odabrana predavanja za WebCamp Zagreb 2013!</a></h2>
+                        <p>S ponosom možemo reći kako smo odabrali 24 predavanja za ovogodišnji WebCamp Zagreb. I ove godine nas je razveselio velik broj prijava predavanja za WebCamp Zagreb 2013. Provjerite tko će ove godine predstaviti svoje teme. <a href="/odabrana-predavanja-za-webcamp-zagreb-2013/" title="Odabrana predavanja za WebCamp Zagreb 2013!">Opširnije</a></p>
+                     </article>
+
+                  </div>
 						<div class="col">
 
 							<article>

@@ -89,7 +89,7 @@ body { color: #222; width: 100%; overflow-x: hidden; }
 
 .inner_wrap { display: block; max-width: 1000px; margin: 0px auto; }
 
-.col_3_grid .col { width: 33.33%; float: left; }
+.col_3_grid .col { width: 50%; float: left; }
 
 @media screen and (max-width: 650px) {
 
