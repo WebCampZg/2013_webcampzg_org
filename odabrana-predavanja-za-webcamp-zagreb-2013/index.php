@@ -63,7 +63,7 @@
 				<div class="inner_wrap cf">						
 
 					<article>
-						<strong>06/06/2013</strong>
+						<strong>20/09/2013</strong>
 						<h2>Odabrana predavanja za WebCamp Zagreb 2013</h2>
 
 						<div class="detail_view">
